@@ -1,0 +1,30 @@
+#fort{
+	width: 20%;
+}
+.head{
+	border-style: solid;
+	background-color: gray;
+}
+.body{
+	background-color: aqua;
+}
+.border{
+	padding: 40px 50px;
+	border-style: groove;
+	text-align: justify;
+}
+.pad{
+	margin-top: -180px;
+	padding:0px 400px;
+	text-align: justify;
+}
+.pad2{
+	margin-top:-100px;
+	padding:0px 400px;
+	text-align: justify;
+}
+.map{
+	width: 80%;
+	margin-top: -530px;
+	padding: 0px 1000px;
+}
